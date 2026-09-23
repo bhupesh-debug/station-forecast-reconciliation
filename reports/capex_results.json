@@ -1,0 +1,14 @@
+{
+  "n_projects": 400,
+  "overrun_base_rate": 0.417,
+  "threshold": 0.25,
+  "target_recall": 0.85,
+  "test_recall": 0.857,
+  "test_precision": 0.419,
+  "test_auc": 0.612,
+  "top_features": {
+    "budget_musd": 0.299,
+    "scope_changes": 0.289,
+    "planned_months": 0.197
+  }
+}

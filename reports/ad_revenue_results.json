@@ -1,0 +1,10 @@
+{
+  "without_drivers": {
+    "r2_all_test_months": 0.446,
+    "r2_election_year_months": 0.489
+  },
+  "with_drivers": {
+    "r2_all_test_months": 0.949,
+    "r2_election_year_months": 0.959
+  }
+}

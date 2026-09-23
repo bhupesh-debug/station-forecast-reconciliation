@@ -1,0 +1,17 @@
+{
+  "folds": 8,
+  "horizon_months": 6,
+  "enterprise_mape": {
+    "base": 5.8,
+    "bottom_up": 6.93,
+    "top_down": 5.8,
+    "mint": 6.73
+  },
+  "station_mape": {
+    "base": 8.95,
+    "bottom_up": 8.95,
+    "top_down": 7.37,
+    "mint": 8.86
+  },
+  "mean_base_incoherence_pct": 2.15
+}
